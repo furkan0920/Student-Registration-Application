@@ -1,2 +1,2 @@
-# Tek-Yonlu-Dogrusal-Liste-Ogrenci-Uygulamasi
-Bu bir tek yonlu dogrusal liste ogrenci uygulaması ve  listedeki degerlerle islem yapma uygulamas
+# One-Way-Linear-List-Student-Application
+This is a one-way linear list student application and an application to manipulate values in the list
